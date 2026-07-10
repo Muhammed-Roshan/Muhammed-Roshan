@@ -5,7 +5,7 @@
   Technical Team Head — AI and Robotics Club, PSGCT
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/muhammed-roshan-401a04288">
+  <a href="www.linkedin.com/in/muhammed-roshan-s-401a04288">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:roshanmuhammed535@gmail.com">
@@ -87,18 +87,3 @@ Experience
 <td>PCB design, embedded systems, microcontroller-based prototyping</td></tr>
 </table>
 <br>
-GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Roshan&show_icons=true&theme=default&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Roshan&hide_border=true" height="165">
-</p>
-<br>
-<p align="center">
-  <a href="mailto:roshanmuhammed535@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/muhammed-roshan-401a04288">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-</p>
